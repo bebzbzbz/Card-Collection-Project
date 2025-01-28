@@ -43,7 +43,14 @@ if(submitBtn && animalName && scientificName && habitat && food && lifespan && a
             renderAnimals(animalsArray);
 
             idNum++;
-            console.log(animalsArray);
+
+            animalName.value = "";
+            scientificName.value = "";
+            animalClass.value = "";
+            habitat.value = "";
+            lifespan.value = "";
+            food.value = "";
+            imgUrl.value = "";
         } else {
             window.alert("Please choose a name and image")
         }
