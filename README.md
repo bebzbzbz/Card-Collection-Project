@@ -1,5 +1,5 @@
 # Card Collection Project  
-<img src="./assets/img/forest.png">
+<img src="./src/assets/img/forest.png">
 
 ## Flowchart
-<img src="./assets/img/flowchart.jpg">
+<img src="./src/assets/img/flowchart.jpg">
